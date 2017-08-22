@@ -1,0 +1,9 @@
+C:\ADMAppWebsite\ADMAppWebsite\bin\Release\netcoreapp1.1\ADMAppWebsite.deps.json
+C:\ADMAppWebsite\ADMAppWebsite\bin\Release\netcoreapp1.1\ADMAppWebsite.runtimeconfig.json
+C:\ADMAppWebsite\ADMAppWebsite\bin\Release\netcoreapp1.1\ADMAppWebsite.runtimeconfig.dev.json
+C:\ADMAppWebsite\ADMAppWebsite\bin\Release\netcoreapp1.1\ADMAppWebsite.dll
+C:\ADMAppWebsite\ADMAppWebsite\bin\Release\netcoreapp1.1\ADMAppWebsite.pdb
+C:\ADMAppWebsite\ADMAppWebsite\obj\Release\netcoreapp1.1\ADMAppWebsite.csprojResolveAssemblyReference.cache
+C:\ADMAppWebsite\ADMAppWebsite\obj\Release\netcoreapp1.1\ADMAppWebsite.AssemblyInfo.cs
+C:\ADMAppWebsite\ADMAppWebsite\obj\Release\netcoreapp1.1\ADMAppWebsite.dll
+C:\ADMAppWebsite\ADMAppWebsite\obj\Release\netcoreapp1.1\ADMAppWebsite.pdb
